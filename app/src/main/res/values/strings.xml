@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ticket Booking</string>
+    <string name="available">Available</string>
+    <string name="selected">Selected</string>
+    <string name="sold">Sold</string>
+    <string name="pay">Pay Now</string>
+    <string name="movie">ABC: The Movie</string>
+    <string name="movie_details">New Cinemas:BLR | Tuesday,Jul 18, 2023, 01:30 PM</string>
+    <string name="ua">UA</string>
+    <string name="close_icon">Close Icon</string>
+</resources>
